@@ -1,0 +1,13 @@
+# Main pipeline, Python 3.10. Baseline environments have separate requirements.
+# Select a CUDA-compatible PyTorch build for your hardware if necessary.
+torch==2.7.1
+numpy==1.25.2
+pandas==2.3.0
+pyarrow==20.0.0
+scipy==1.15.3
+scikit-learn==1.7.0
+matplotlib==3.10.3
+transformers==4.44.2
+huggingface-hub==0.25.1
+tqdm==4.67.1
+einops==0.8.1

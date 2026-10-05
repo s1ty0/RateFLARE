@@ -1,0 +1,13 @@
+accelerate==0.34.2
+bitsandbytes==0.42.0
+einops==0.8.2
+huggingface_hub==0.25.1
+matplotlib==3.10.8
+numpy==2.4.3
+pandas==3.0.1
+scikit_learn==1.8.0
+scipy==1.17.1
+torch==2.2.2+cu121
+tqdm==4.66.5
+transformers==4.44.2
+peft==0.14.0
